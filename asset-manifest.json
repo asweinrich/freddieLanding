@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/freddieLanding/static/css/main.4a394717.css",
+    "main.css": "/freddieLanding/static/css/main.9e23e194.css",
     "main.js": "/freddieLanding/static/js/main.be390a36.js",
     "static/js/787.db7c0b17.chunk.js": "/freddieLanding/static/js/787.db7c0b17.chunk.js",
     "static/media/persistance.png": "/freddieLanding/static/media/persistance.4ed51a51e1026a348832.png",
@@ -21,12 +21,12 @@
     "static/media/Aubrey.TTF": "/freddieLanding/static/media/Aubrey.703259126447907c2f5c.TTF",
     "static/media/logo.svg": "/freddieLanding/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/freddieLanding/index.html",
-    "main.4a394717.css.map": "/freddieLanding/static/css/main.4a394717.css.map",
+    "main.9e23e194.css.map": "/freddieLanding/static/css/main.9e23e194.css.map",
     "main.be390a36.js.map": "/freddieLanding/static/js/main.be390a36.js.map",
     "787.db7c0b17.chunk.js.map": "/freddieLanding/static/js/787.db7c0b17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a394717.css",
+    "static/css/main.9e23e194.css",
     "static/js/main.be390a36.js"
   ]
 }
